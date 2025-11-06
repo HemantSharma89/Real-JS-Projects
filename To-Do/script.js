@@ -34,6 +34,7 @@ function  saveData() {
 }
 function showData() {
   listContainer.innerHTML=localStorage.getItem("data");
+  listContainer.firstChild.remove();
   
 }
 showData();
