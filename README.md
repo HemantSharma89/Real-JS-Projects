@@ -1,3 +1,3 @@
-# This is an only Front End Project. It is a To-Do-List application program.
+# This is an only Front End Project. like To-Do list, Weather application.
   Using skill-> HTML, CSS and JavaScript only.
   
